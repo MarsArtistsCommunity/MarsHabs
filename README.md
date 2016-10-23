@@ -1,5 +1,5 @@
 # MarsHabs
-3D Models of Martian Habitats
+Models of Martian Habitats and Their Environs
 
 **Surface Pipeline Mars/39A**
 
