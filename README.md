@@ -45,7 +45,7 @@ Dropbox file: https://www.dropbox.com/s/77s67b3s6fsxmbq/vacuum_hab_workfile.000.
 
 
 
-**Settlement Equipment Coollection**
+**Settlement Equipment Collection**
 
 Dropbox file: https://www.dropbox.com/s/v08ap8bu8ioyl4j/settlement_props.000.ma?dl=0 
 
