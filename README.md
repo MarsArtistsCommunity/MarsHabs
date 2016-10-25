@@ -19,11 +19,9 @@ Dropbox file: https://www.dropbox.com/s/2o00sr4yvzf6kov/pipeline.000.mb?dl=0
 
 
 
-**MDRS (Mars Desert Research Station, early draft 2007)**
+**Satellite Dish**
 
-Dropbox file: https://www.dropbox.com/s/77s67b3s6fsxmbq/vacuum_hab_workfile.000.mb?dl=0
-
-![](https://github.com/MarsArtistsCommunity/MarsHabs/blob/master/Screen%20Shot%202016-10-22%20at%207.30.22%20PM.png)
+![](https://github.com/MarsArtistsCommunity/MarsHabs/blob/master/satellite_dish_1.jpg)
 
 
 
@@ -33,9 +31,12 @@ Dropbox file: https://www.dropbox.com/s/77s67b3s6fsxmbq/vacuum_hab_workfile.000.
 
 
 
-**Satellite Dish**
+**MDRS (Mars Desert Research Station, early draft 2007)**
 
-![](https://github.com/MarsArtistsCommunity/MarsHabs/blob/master/satellite_dish_1.jpg)
+Dropbox file: https://www.dropbox.com/s/77s67b3s6fsxmbq/vacuum_hab_workfile.000.mb?dl=0
+
+![](https://github.com/MarsArtistsCommunity/MarsHabs/blob/master/Screen%20Shot%202016-10-22%20at%207.30.22%20PM.png)
+
 
 
 **Settlement Equipment Coollection**
